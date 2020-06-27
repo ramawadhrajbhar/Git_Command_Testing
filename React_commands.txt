@@ -1,0 +1,13 @@
+1.Install node.js
+2.Install npm.
+3.Create npm project from command , move the project location and run below command:
+	i)npm install -g create-react-app (This command create the application at where npm instatalled)
+	ii)create-react-app <project-name>
+	
+4.Starts run on your development server.
+	npm start.
+5.Bundles the app into static files for production.	
+	npm run build
+6.Starts the test runner.	
+	npm test
+	
